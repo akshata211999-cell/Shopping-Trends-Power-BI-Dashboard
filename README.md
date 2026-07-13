@@ -3,7 +3,7 @@
 This project presents an interactive Power BI dashboard that analyzes shopping trends, customer purchasing behavior, sales performance, product preferences, seasonal trends, and discount impact. The dashboard helps convert raw data into meaningful business insights through interactive visualizations.
 ---
 ## 📷 Dashboard Preview
-![Dashboard](Images/dashboard.png)
+https://github.com/akshata211999-cell/Shopping-Trends-Power-BI-Dashboard/blob/main/Images/Dashboard.png
 ---
 ## 🎯 Business Objectives
 - Analyze customer purchasing behavior.
