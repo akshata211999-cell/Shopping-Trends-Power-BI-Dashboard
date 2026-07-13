@@ -1,74 +1,49 @@
-# 🛍️ Shopping Trends Analysis Dashboard (Power BI)
+# 🛍️ Shopping Trends Analysis Dashboard
 ## 📌 Project Overview
-This project presents an interactive Power BI dashboard built using a Shopping Trends dataset. The dashboard helps analyze customer behavior, sales performance, purchase patterns, and product trends through interactive visualizations.
+This project presents an interactive Power BI dashboard that analyzes shopping trends, customer purchasing behavior, sales performance, product preferences, seasonal trends, and discount impact. The dashboard helps convert raw data into meaningful business insights through interactive visualizations.
 ---
-## 📊 Dashboard Preview
-![Dashboard](Images/Dashboard.png)
+## 📷 Dashboard Preview
+![Shopping Trends Dashboard](Images/Dashboard.png)
 ---
-## 📁 Dataset
-The dataset contains customer shopping information including:
-- Customer ID
-- Gender
-- Age
-- Location
-- Season
-- Purchase Value
-- Item Purchased
-- Size
-- Color
-- Discount Applied
-- Review Rating
+## 🎯 Business Objectives
+- Analyze customer purchasing behavior.
+- Monitor sales performance and order volume.
+- Compare seasonal sales trends.
+- Evaluate the impact of discounts on orders.
+- Identify customer demographics.
+- Track product ratings and preferences.
 ---
-## 📈 Dashboard KPIs
-- Total Customers
-- Total Orders
-- Total Sales
-- Average Rating
+## 📊 Dashboard KPIs
+- **Total Customers:** 3,900
+- **Total Orders:** 3,900
+- **Total Sales:** 233K
+- **Average Rating:** 3.75
 ---
-## 📊 Visualizations
+## 📈 Dashboard Visualizations
 - Total Customers by Location
 - Total Orders by Purchase Value
 - Average Rating by Item Purchased
 - Orders by Discount Applied
-- Sales by Age Group
-- Sales by Season and Size
-- Orders by Color
----
-## 🎛️ Filters
-- Discount Applied
-- Season
-- Item Purchased
-- Size
-- Gender
+- Total Sales by Age Group
+- Total Sales by Season and Size
+- Total Orders by Product Color
 ---
 ## 🛠 Tools Used
 - Power BI Desktop
-- Microsoft Excel / CSV
 - Power Query
 - DAX
+- Microsoft Excel
 ---
-## 📂 Project Structure
-```
-Shopping-Trends-PowerBI-Dashboard
-│
-├── Dashboard/
-├── Dataset/
-├── Images/
-├── README.md
-```
+## 📂 Dataset
+Shopping Trends Dataset (CSV)
 ---
-## 📌 Key Insights
+## 💡 Key Insights
 - Medium purchase value generated the highest number of orders.
-- Discounted purchases account for a large share of total orders.
 - Middle-aged customers contributed the highest sales.
-- Seasonal purchasing trends vary across clothing sizes.
-- Customer ratings remain consistent across most purchased items.
+- Orders without discounts slightly exceeded discounted orders.
+- Sales remained relatively consistent across seasons.
+- The average customer rating was approximately 3.75.
 ---
-## 🚀 Author
-Akshata Pattar
-MBA Graduate | Data Analyst
-Skills:
-- Excel
-- SQL
-- Power BI
-- Python
+## 👩‍💻 Author
+**Akshata Pattar**
+MBA Graduate | Aspiring Data Analyst
